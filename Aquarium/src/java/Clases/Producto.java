@@ -65,7 +65,7 @@ public class Producto {
         this.precio = precio;
     }
     public void getTodo (){
-		System.out.println("hola mundo " + precio + " " + cantidad);
+		System.out.println("hola mundo hay que mejorar nuestro avance porfa " + precio + " " + cantidad);
 	
 	}
 }
