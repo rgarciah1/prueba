@@ -1,0 +1,14 @@
+iso: debian 9.12
+hostname: debianhost
+root pw: root
+user pw: user
+ram 4gb
+vhd 10gb
+
+
+hostname: hostname
+Port: 3306
+root pw: root
+admin 
+pw: admin
+
