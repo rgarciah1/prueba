@@ -64,5 +64,8 @@ public class Producto {
       public void setPrecio(int precio) {
         this.precio = precio;
     }
-    
+    public void getTodo (){
+		System.out.println("hola mundo " + precio + " " + canitdad);
+	
+	}
 }
