@@ -22,7 +22,7 @@ import herram.conexion;
 import java.util.ArrayList;
 import Clases.Usuario;
 import Clases.Producto;
-import net.sf.jasperreports.engine.JasperCompileManager;
+//import net.sf.jasperreports.engine.JasperCompileManager;
 @WebServlet(name = "ServletAct", urlPatterns = {"/ServletAct"})
 public class ServletAct extends HttpServlet {
 
